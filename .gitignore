@@ -1,0 +1,6 @@
+fp-info-cache
+*-backups/
+Library/
+.history/
+sym-lib-table
+fp-lib-table

@@ -2,6 +2,6 @@
 fp-info-cache
 *-backups/
 Library/
-.history/
+.history/*
 sym-lib-table
 fp-lib-table

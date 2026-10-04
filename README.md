@@ -20,8 +20,8 @@ Finally, the regulated output is made available through the output terminals, al
 
 |Schematic|Layout|
 |---|---|
-| [Schematic](img/Schematic.png) | [Layout](img/PCB_layout.png) |
+| ![Schematic](img/Schematic.png) | ![Layout](img/PCB_layout.png) |
 
 |Top|Bottom|
 |---|---|
-| [Top](img/Render_top.png) | [Bottom](img/Render_bottom.png) |
+| ![Top](img/Render_top.png) | ![Bottom](img/Render_bottom.png) |
